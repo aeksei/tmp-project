@@ -1,3 +1,1 @@
-fkshjdhk
-skdjhfbjsdh
-написал через GitHub
+print("Hello world!!!!")
